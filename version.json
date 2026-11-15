@@ -1,0 +1,12 @@
+{
+  "app_name": "All2K",
+  "package_name": "com.aistudio.deck2k.xmpqzk",
+  "version_name": "1.0.0",
+  "version_code": 1,
+  "release_date": "2026-11-14T20:12:12Z",
+  "download_url": "https://github.com/itsmectrl/All2K-new/releases/download/v1.0.0/All2K-v1.0.0-release.apk",
+  "sha256": "96f36c6714b367102dbd050d47b232d39ca12152b35073e96f4f0f66dacac160",
+  "signing_certificate_sha256": "ebd11281240cdc8f1fc33a538c91dc060413b39e174d8121d7613442069610da",
+  "release_notes_url": "https://github.com/itsmectrl/All2K-new/releases/tag/v1.0.0",
+  "mandatory": false
+}
